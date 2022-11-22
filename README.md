@@ -1,3 +1,5 @@
+All sounds have been edited with one or more of the following: Normalized, trimmed, compressed.
+
 | Filename with source and credit | License |
 | ------------- | ------------- |
 | [celebrate group applause clapping yey 2.mp3](https://freesound.org/people/sonsdebarcelona/sounds/221937/) | http://creativecommons.org/licenses/by/3.0/ | 
