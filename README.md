@@ -1,4 +1,20 @@
-All sounds have been edited with one or more of the following: Normalized, trimmed, compressed.
+# The Sound Monster Sound pack
+
+This free sound pack can be downloaded with Sound Monster, either during install or from settings. The [Sound Monster](https://sound.monster/) soundboard is available from https://sound.monster/
+
+Sound Monster is the easiest way to play tons of sounds from any app or game.
+
+The sounds are divided into 2 folders, Public domain and Attribution license.  If you prefer to have only public domain sounds you can delete the Attribution folder. 
+
+**All the sounds can be used completely royalty free in any way but remember to give attribution for the sounds that require it.**
+
+Most of the sounds come from https://freesound.org/ Please consider supporting them if you use the sounds. Click on the file names to see the source for each sound.
+
+All sounds have been edited with one or more of the following: Normalized, trimmed, compressed, encoded. 
+
+Please add your ideas and comments to issues!
+
+## Full list of sounds
 
 | Filename with source and credit | License |
 | ------------- | ------------- |
@@ -10,7 +26,7 @@ All sounds have been edited with one or more of the following: Normalized, trimm
 | [game win jingle.mp3](https://freesound.org/people/elijahdanie/sounds/487436/) | http://creativecommons.org/licenses/by/3.0/ | 
 | [message please leave your message after the tone.mp3](https://freesound.org/people/kwahmah_02/sounds/274759/) | http://creativecommons.org/licenses/by/3.0/ | 
 | [please puh-leaze oh please.mp3](https://freesound.org/people/owly-bee/sounds/415343/) | http://creativecommons.org/licenses/by/3.0/ | 
-| [radio click over.mp3](https://freesound.org/people/FlyinEye/sounds/160223/ + https://freesound.org/people/ERH/sounds/30331/) | http://creativecommons.org/licenses/by/3.0/ | 
+| radio click over.mp3 (https://freesound.org/people/FlyinEye/sounds/160223/ + https://freesound.org/people/ERH/sounds/30331/) | http://creativecommons.org/licenses/by/3.0/ | 
 | [record scratch.mp3](https://freesound.org/people/kwahmah_02/sounds/269476/) | http://creativecommons.org/licenses/by/3.0/ | 
 | [scream girl afraid frightened.mp3](https://freesound.org/people/owly-bee/sounds/415353/) | http://creativecommons.org/licenses/by/3.0/ | 
 | [scream pain man 1.mp3](https://freesound.org/people/GabrielaUPF/sounds/220290/) | http://creativecommons.org/licenses/by/3.0/ | 
@@ -114,3 +130,5 @@ All sounds have been edited with one or more of the following: Normalized, trimm
 | [horn air horn train.mp3](https://freesound.org/people/guitarguy1985/sounds/68999/) | https://creativecommons.org/publicdomain/zero/1.0/ | 
 | [aww pity moan audience.mp3](https://freesound.org/people/phmiller42/sounds/124996/) | https://creativecommons.org/publicdomain/zero/1.0/ | 
 | [army reveille bugle military attack.mp3](https://commons.wikimedia.org/wiki/File:Reveille_on_bugle.ogg) | https://en.wikipedia.org/wiki/Public_domain | 
+
+
