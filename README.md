@@ -26,7 +26,7 @@ All sounds have been edited with one or more of the following: Normalized, trimm
 | [bruh.mp3](https://freesound.org/people/Dude_Law/sounds/547829/?page=4#comment) | http://creativecommons.org/publicdomain/zero/1.0/ | 
 | [buzzer.mp3](https://freesound.org/people/guitarguy1985/sounds/54047/) | http://creativecommons.org/publicdomain/zero/1.0/ | 
 | [bye bye.mp3](https://freesound.org/people/Alivvie/sounds/323361/) | http://creativecommons.org/publicdomain/zero/1.0/ | 
-| [censor beep loop.wav](https://freesound.org/people/-DeletedUser-/sounds/647268/) | http://creativecommons.org/publicdomain/zero/1.0/ | 
+| [censor bleep loop.wav](https://freesound.org/people/-DeletedUser-/sounds/647268/) | http://creativecommons.org/publicdomain/zero/1.0/ | 
 | [clock tick tock waiting.mp3](https://freesound.org/people/blukotek/sounds/412750/) | http://creativecommons.org/publicdomain/zero/1.0/ | 
 | [confused ehhh.mp3](https://freesound.org/people/a13389/sounds/528782/) | http://creativecommons.org/publicdomain/zero/1.0/ | 
 | [correct that's correct radio.mp3](https://freesound.org/people/cityrocker/sounds/121342/) | http://creativecommons.org/publicdomain/zero/1.0/ | 
